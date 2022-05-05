@@ -19,4 +19,4 @@ SLACK_Webhook_URL is used to send messages to the specified channel.
 
 ## Result
 
-<img src="./docs/img/slack-channel.png" alt="" width="400"/>
+<img src="./docs/img/slack-channel.png" alt="" width="600"/>
